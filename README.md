@@ -1,7 +1,7 @@
-## Hello World, I'm Feilim
-👨‍🎓 I am a CS student in UCC
-👾 Currently working on my own [webpage]()
-🌐 I am Co-Founder of [White Glavin Web Development](https://whiteglavin.com/)
+## Hello World, I'm Feilim </br>
+👨‍🎓 I am a CS student in UCC</br>
+👾 Currently working on my own [webpage]()</br>
+🌐 I am Co-Founder of [White Glavin Web Development](https://whiteglavin.com/)</br>
 
 
 # 💻 Tech Stack:
